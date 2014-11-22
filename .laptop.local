@@ -3,15 +3,24 @@
 brew install caskroom/cask/brew-cask
 brew cask install trim-enabler
 brew cask install google-chrome
-brew cask install onepassword
 brew cask install dropbox
+brew cask install onepassword
 brew cask install iterm2
 brew cask install skype
 brew cask install adium
 brew cask install mailbox
 brew cask install caskroom/versions/java6
 brew cask install intellij-idea
-brew cask install slack
 brew cask install sublime-text
 brew cask install xld
 brew cask install limechat
+brew cask install spotify
+brew cask install firefox
+brew cask install virtualbox
+brew cask install vagrant
+brew cask install vlc
+# brew install python
+# pip install --upgrade setuptools
+# pip install --upgrade pip
+brew install zsh-completions
+curl -L http://install.ohmyz.sh | sh
