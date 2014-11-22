@@ -1,0 +1,17 @@
+#!/bin/sh
+
+brew install caskroom/cask/brew-cask
+brew cask install trim-enabler
+brew cask install google-chrome
+brew cask install onepassword
+brew cask install dropbox
+brew cask install iterm2
+brew cask install skype
+brew cask install adium
+brew cask install mailbox
+brew cask install caskroom/versions/java6
+brew cask install intellij-idea
+brew cask install slack
+brew cask install sublime-text
+brew cask install xld
+brew cask install limechat
